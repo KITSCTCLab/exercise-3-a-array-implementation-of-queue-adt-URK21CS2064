@@ -125,6 +125,7 @@ solution = Solution(length_of_text)
 for index in range(length_of_text):
     # Write code here
     
+    
 
 is_palindrome = True
 '''
