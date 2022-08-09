@@ -123,10 +123,7 @@ solution = Solution(length_of_text)
 
 # push/enqueue all the characters of string text to stack
 for index in range(length_of_text):
-    # Write code here:
-    top+=1
-    stack[top]=index
-
+    
     
     
     
