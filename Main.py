@@ -42,8 +42,8 @@ class Solution:
           True if it is empty, else returns False.
         """
         # Write your code here
-        if self.rear == -1::
-                return True
+        if self.rear == -1:
+            return True
         else:
             return False
                         
